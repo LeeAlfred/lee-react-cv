@@ -1,6 +1,86 @@
 .App {
   text-align: center;
+  background-color: #fff;
 }
+
+body {
+
+  background-color: #eee;
+  padding: 0 16px;
+  margin-top: 50px;
+}
+.story {
+  text-align: left;
+  background-color:  #fff;
+  padding: 16px 16px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  margin: 10px 0;
+  }
+
+.container {
+background-color: #fff;
+}
+
+.col1 {
+  background-color: #fff;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  padding: 16px 16px;
+  margin: 10px 0;
+}
+
+.roles {
+text-align: left;
+padding: 5px;
+
+}
+
+.skill-section{
+  text-align: left;
+  padding: 5px;
+}
+
+.training {
+  text-align: left;
+  padding: 5px;
+
+}
+
+.jumbotron {
+  margin: 10px ;
+  padding: 50px;
+  background-image: url("https://s6.gifyu.com/images/IMG-20200510-WA0001.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  
+}
+
+.button{
+  margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .App-logo {
   height: 40vmin;

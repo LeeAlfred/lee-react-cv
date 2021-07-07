@@ -7,7 +7,10 @@ function Footer() {
     const date = new Date();
     const year =date.getFullYear();
 
-    return <footer><p>Copyright byLeeSampson ⓒ{year}</p></footer>
+    return (
+    <div className="col-heading">
+<footer><p>Copyright byLeeSampson ⓒ{year}</p></footer>
+    </div>)
 
 
 }

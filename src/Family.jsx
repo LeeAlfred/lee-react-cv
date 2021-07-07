@@ -15,9 +15,9 @@ function Family() {
     alt="Lee Sampson profile"
   />
   <Media.Body>
-    <h5>My Family</h5>
+    <h5>Family</h5>
     <p>
-     Family is the reason for everything I do.
+    I am a proud father of three, one currently studying at university and two other at school. My wife is South African and we moved to Cape Town so she can care for her family here.
     </p>
 
   </Media.Body>

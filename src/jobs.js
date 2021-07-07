@@ -2,27 +2,27 @@ const jobs = [
 {
 id: 1,
 employer: "Voyager Internet NZ",
-role: "Wellington HelpDesk Manager 2018 -2019",
-description: "Service Management and supporting the performance of the Wellington Region Helpdesk Team to enable Technical Support Specialists to deliver outstanding Customer Service",
-keywords: "Improve Customer Experience. Change Management. Operational improvement. Workforce Management. Culture and Engagment.",
-achievements: "I improved culture, efficiency and operating model that ensured the sustainability and viability of the Wellington Helpdesk",
+role: "Wellington HelpDesk Manager 2018-2019",
+description: "I was responsible for the Wellington Office and Service Management of the Wellington Region Helpdesk Team of Tier One and Two Technical Support Specialists.",
+keywords: "Leadership Development. Customer Experience Improvement. Operational Process Improvement. Change Management. Workforce Management Improvement. Coaching and Development Framework. People and Employment. Complaint Resolution.",
+achievements: "I was proud to vastly improve key customer performance indicators that ensured the sustainability and viability of the Wellington Helpdesk. This was an outcome of a focus on improving culture, coaching, development, roster and change resilience.",
 },
 {
 id: 2,
 employer: "Bank of New Zealand",
 role: "Senior Team Leader 2015 - 2018",
-description: "Assisting performance growth, leadership development and improving customer outcomes.",
-keywords: "Managing the Quality assurance program. Managing the Inspire Coaching program. Developing leadership and coaching capability of emerging leaders. Facilitation of Kaizen Workshops.",
-achievements: "BNZ Chevron Award winner. Lead business improvement of key risk process.",
+description: "The main responsibilities were leading programs of work for Leadership Development, Risk Process Improvement, Coaching and Quality Improvement for the Retail Contact Centres.",
+keywords: "Project and Change Management. Leading the Quality Assurance program. Leading Coaching program. Leadership Development. Facilitation of Workshops remote and onsite. Risk Process Management. People and Employment Relations.",
+achievements: "BNZ Chevron Award winner for Quality Assurance program. Lead the Change and Project Management of a key Risk process. Lead the calibration of Coaching and Quality programs in BNZ Direct Service Contact Centers. ",
 },
 
 {
 id: 3,
 employer: "Bank of New Zealand",
 role: "Assistant Manager Direct Service Wellington 2014 -2015",
-description: "Monitor and maintain optimal business resource capacity and initiating actions to improve resource utilisation. Identifying, planning and implementing strategies that improve performance and customer satisfaction outcomes, formulating the strategic direction for the site",
-keywords: "Contributing to the leadership of the business  planning, positioning and overall performance of the site. Support and coaching of the Team Leaders. Monitor and maintain optimal business resource capacity. Communicating and ensuring objectives are implemented and understood.",
-achievements: "BNZ Silver Kiwi Award winner. Creation of Quality Assurance Program. Managed the accreditation of Inspire Coaching Methodology.",
+description: "The role involved leading a team of 6 Team Leaders and working with the National Contact Center Manager to formulate the strategic direction for the BNZ Direct Service Contact Centres.",
+keywords: "Business planning, positioning and performance. Leadership Development. Monitor and maintain optimal business resource capacity. Improve resource utilisation. Identifying, planning and implementing strategies. Customer Experience. People and Employment Relations.",
+achievements: "BNZ Silver Kiwi Award winner. Creation of Quality Assurance Program. Managed the national accreditation of Inspire Coaching Methodology.",
 },
 
 {
@@ -30,8 +30,8 @@ id: 4,
 employer: "Bank of New Zealand",
 role: "Team Leader 2008 - 2014",
 description: "Coaching, supporting and leading a team of direct reports to achieve customer centric individual, team and business goals.",
-keywords: "Managing development of staff. Risk awareness and management. Ensuring adherence to relevant policies.",
-achievements: "BNZ Silver Kiwi Aware winner. Integration of Digital Service Team into Direct Service. Top percentile customer experience and staff engagement results",
+keywords: "Coaching and Development. Increase Customer Experience measures. Complaint Resolution. Workforce Management.",
+achievements: "BNZ Silver Kiwi Award winner. Integration of Digital Service Team into Direct Service. Top percentile Customer Experience and Staff Engagement results.",
 },
 
 ]

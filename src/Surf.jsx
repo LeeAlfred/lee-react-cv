@@ -17,7 +17,7 @@ function Surf() {
   <Media.Body>
     <h5>Surf</h5>
     <p>
-     This is my recharge spot.
+     I came to surfing late in life (in my late 20's) but fell in love with longboards and being out the back of the lineup and taking the time to recharge.
     </p>
 
   </Media.Body>

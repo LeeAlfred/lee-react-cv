@@ -16,9 +16,7 @@ function Byleesampson() {
   />
   <Media.Body>
     <h5>Penguins</h5>
-    <p>
-     Thoughts on Leadership with penguin illustrations.
-    </p>
+   
     <p> Here is a link to a webesite I created for displaying my thoughts on Leadership using penguins <a href="http://penguins-by-lee-sampson.herokuapp.com/" target="_blank">Penguins byLeeSampson</a></p>
 
   </Media.Body>

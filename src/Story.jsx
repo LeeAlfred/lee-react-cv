@@ -8,6 +8,7 @@ function Story() {
    <Container fluid>    
          <Media>
   <img
+  
     width={150}
     height={150}
     className="align-self-center mr-3"
@@ -15,15 +16,21 @@ function Story() {
     alt="Lee Sampson profile"
   />
   <Media.Body>
-    <h5>My Story</h5>
+    <h5>About</h5>
     <p>
-      A lot of life experience has helped make me a genuinely nice person, a real team player and a talented leader who understands the importance of two way contribution.
+    My life experience has helped make me a genuinely nice person who understands that getting to know people is the key to success.
     </p>
     <p>
-      Over the past 20 years I have enjoyed leadership roles in Hospitality, Service, Finance and IT. This provides a wealth of varied skills and knowledge and confidence in adaptability.  
+    Over the past 20 years I have had leadership roles in Hospitality, Service, Finance and IT.   
     </p>
     <p>
-       My special power is introverted ability to empathise combined with a strong creative trait.
+    This wealth of experience allows me to cross pollinate successful skills, practices and knowledge from those sectors. It also demonstrates my comfort to continually learn, adapt and work with a diverse cross-section of society.
+    </p>
+    <p>
+    At work I am most passionate about fostering a culture of teamwork where the customer experience and staff engagement are a team's measure of success.
+    </p>
+    <p>
+    I excel because people can tell I genuinely care.   
     </p>
   </Media.Body>
 </Media>

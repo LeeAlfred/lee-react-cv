@@ -17,6 +17,7 @@ import './App.css';
 import jobs from './jobs';
 import education from './education.js';
 import skill from './skill';
+import Accordion from 'react-bootstrap/Accordion';
 
 function createRoles(jobs){
   return <Roles key={jobs.id} employer={jobs.employer} role={jobs.role} description={jobs.description} keywords={jobs.keywords} achievements={jobs.achievements} />;
@@ -43,15 +44,13 @@ function App() {
       <Row>
         <Col>
         <div className="col1">
-          <h5>Skills</h5>
-        
+          <h5 >Skills</h5>
         {skill.map(createSkills)}
         </div>
         </Col>
         <Col>
         <div className="col1">
-          <h5>Roles</h5>
-        
+          <h5 >Roles</h5>
         {jobs.map(createRoles)}
         </div>
         </Col>
@@ -66,6 +65,8 @@ function App() {
       <Row>
         <Col><Family /></Col>
         <Col><Art /></Col>
+      </Row>  
+      <Row>
         <Col> <Surf /></Col>
         <Col> <Byleesampson /></Col>    
       </Row>

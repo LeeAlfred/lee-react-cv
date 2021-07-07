@@ -8,10 +8,10 @@ import Container from "react-bootstrap/Container";
 function Heading() {
     return(
         <Container fluid>
-<Jumbotron fluid >
+<Jumbotron fluid id="home">
 <h1>Lee Sampson CV</h1>
     <p>
-     Father, husband and general nice guy with plenty of leadership talent to offer. I'm currently learning Web Dev.
+     Father, husband and general nice guy with plenty of leadership talent to offer.
     </p>
   
 </Jumbotron>

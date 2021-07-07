@@ -1,19 +1,25 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Card from 'react-bootstrap/Card';
+import Accordian from 'react-bootstrap/Accordion';
+import { Button } from "react-bootstrap";
 
 
 function Skills(props) {
     return(
         <div className="skill-section">
 <Container>
+<Accordian>
 <Card border="light">
     <Card.Body>
         <Card.Title>{props.skill}</Card.Title>
-        {/* <Card.Subtitle className= "mb-2 texted-muted"></Card.Subtitle> */}
+        <Accordian.Toggle as={Card.Header} eventKey="0">...</Accordian.Toggle>
+        <Accordian.Collapse eventKey="0">
         <Card.Text>{props.level}</Card.Text>
+        </Accordian.Collapse>
     </Card.Body>
 </Card>
+</Accordian>
 </Container>
         </div>
     )

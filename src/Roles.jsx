@@ -9,7 +9,8 @@ function Roles(props) {
         <div className="roles">
      
 <Container>
-<Accordion> 
+<Accordion>
+
 <Card border="light">
     <Card.Body>
         <Card.Title>{props.role}</Card.Title>

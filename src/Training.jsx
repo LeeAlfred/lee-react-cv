@@ -10,8 +10,7 @@ function Training(props) {
 <Card border="light">
     <Card.Body>
         <Card.Subtitle className= "mb-2 texted-muted">{props.course}</Card.Subtitle>
-        <Card.Text>{props.provider}</Card.Text>
-        {/* <Card.Text>{props.outline}</Card.Text> */}
+        <Card.Text>{props.provider}</Card.Text>  
     </Card.Body>
 </Card>
 </Container>

@@ -2,6 +2,7 @@ import React from "react";
 import Media from 'react-bootstrap/Media';
 import Container from 'react-bootstrap/Container';
 
+
 function Surf() {
     return (
         <div className="story">

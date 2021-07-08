@@ -17,8 +17,10 @@ function Family() {
   <Media.Body>
     <h5>Family</h5>
     <p>
-    I am a proud father of three, one currently studying at university and two other at school. My wife is South African and we moved to Cape Town so she can care for her family here.
-    </p>
+    I am a proud father of three, our daughter is currently studying at university and our two son's at school here.</p>
+    
+    <p> My wife is South African and we moved to Cape Town in 2019 so she can care for her family here.</p>
+    
 
   </Media.Body>
 </Media>

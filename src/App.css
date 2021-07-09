@@ -8,7 +8,12 @@ body {
   background-color: #eee;
   padding: 0 16px;
   margin-top: 50px;
+  font-family: 'Rubik', sans-serif;
 }
+
+/* h1{
+  font-size: 1rem;
+} */
 .story {
   text-align: left;
   background-color:  #fff;
@@ -72,12 +77,17 @@ padding: 5px;
   background-repeat: no-repeat;
   color: black;
   
+  
 }
 
 .button{
   margin-left: 10px;
 }
 
+.bottom-cards {
+  height: 50%;
+  width: 50%;
+}
 
 
 

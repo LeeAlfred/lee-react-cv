@@ -21,7 +21,7 @@ function Contact (){
           <Modal.Title>How To Contact</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-        <p>The best way to get in touch and access to a printable copy of my CV is on <a href="https://www.linkedin.com/in/lee-sampson-831a6614a/" target="_blank">my Linkedin Page</a></p>
+        <p>The best way to get in touch and access to a printable copy of my CV is on <a href="https://www.linkedin.com/in/lee-sampson-831a6614a/" target="_blank" rel="noreferrer">my Linkedin Page</a></p>
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>

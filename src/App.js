@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -17,7 +17,7 @@ import './App.css';
 import jobs from './jobs';
 import education from './education.js';
 import skill from './skill';
-import Accordion from 'react-bootstrap/Accordion';
+
 
 function createRoles(jobs){
   return <Roles key={jobs.id} employer={jobs.employer} role={jobs.role} description={jobs.description} keywords={jobs.keywords} achievements={jobs.achievements} />;

@@ -15,7 +15,7 @@ function Art() {
     <p>
     I've been painting for over 20 years. My influences include the Impressionists and New Zealand contemporary artists.</p>
 
-    <p>Here are some examples of my <a href="https://leesampsonart.weebly.com/" target="_blank">paintings on Weebly</a></p>
+    <p>Here are some examples of my <a href="https://leesampsonart.weebly.com/" target="_blank" rel="noreferrer">paintings on Weebly</a></p>
 
   </Card.Body>
 </Card>

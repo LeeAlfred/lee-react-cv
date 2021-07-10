@@ -2,6 +2,7 @@
   "name": "lee-react-cv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/LeeAlfred/lee-react-cv",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -17,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"run npm build",
+    "deploy":"gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

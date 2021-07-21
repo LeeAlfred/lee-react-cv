@@ -6,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 function Surf() {
     return (
         <div className="story">
-   <Container>    
+   <Container fluid>    
          <Card border="light">
   <Card.Img
     width={160}

@@ -17,6 +17,7 @@ import './App.css';
 import jobs from './jobs';
 import education from './education.js';
 import skill from './skill';
+import Developer from './Developer';
 
 
 function createRoles(jobs){
@@ -63,12 +64,17 @@ function App() {
         </Col>
       </Row>
       <Row>
+      <Col>
+        <Developer />
+        </Col>  
+      </Row>
+      <Row>
         <Col><Family /></Col>
-        <Col><Art /></Col>
+        <Col><Byleesampson /></Col>
       </Row>  
       <Row>
-        <Col> <Surf /></Col>
-        <Col> <Byleesampson /></Col>    
+        <Col><Surf /></Col>
+        <Col><Art /></Col>    
       </Row>
       <Footer />
     </Container>

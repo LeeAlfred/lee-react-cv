@@ -11,9 +11,7 @@ body {
   font-family: 'Rubik', sans-serif;
 }
 
-/* h1{
-  font-size: 1rem;
-} */
+
 .story {
   text-align: left;
   background-color:  #fff;
@@ -60,19 +58,11 @@ padding: 5px;
 
 }
 
-.col-heading {
-  background-image: url("https://s6.gifyu.com/images/IMG-20200510-WA0001.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  color:black;
-  margin: 10 px;
-  padding: 16px;
-}
 
 .jumbotron {
   margin: 10px ;
   padding: 50px;
-  background-image: url("https://s6.gifyu.com/images/IMG-20200510-WA0001.png");
+  background-image: url("https://s6.gifyu.com/images/leeReactCvJumbotron-1.png");
   background-size: cover;
   background-repeat: no-repeat;
   color: black;
@@ -87,6 +77,15 @@ padding: 5px;
 .bottom-cards {
   height: 50%;
   width: 50%;
+}
+
+.websites {
+  height: 80%;
+  width: 80%;
+  padding: 5px;
+  margin-left: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5%;
 }
 
 

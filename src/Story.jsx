@@ -6,7 +6,7 @@ function Story() {
     return (
         <div className="story">
    <Container fluid>    
-         <Card border="light">
+  <Card border="light">
   
   <Card.Body>
     <Card.Title><Card.Img className="profile-img" variant="top" src="https://s6.gifyu.com/images/sqaureProfImg.png"

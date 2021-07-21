@@ -8,9 +8,10 @@ function Byleesampson() {
    <Container fluid>    
          <Card border="light">
   <Card.Img
-    
+    width={160}
+    height={110}
     className="bottom-cards" variant="top"
-    src="https://s6.gifyu.com/images/Favicon.png"
+    src="https://s6.gifyu.com/images/LeeReactCvCard.png"
     alt="Penguin Illustration byLeeSampson"
   />
   <Card.Body>

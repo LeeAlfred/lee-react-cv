@@ -6,8 +6,11 @@ function Art() {
     return (
         <div className="story">
    <Container fluid>    
-  <Card border="light">
-  <Card.Img className="bottom-cards" variant ="top" src="https://s6.gifyu.com/images/IMG-20180601-WA0008.jpg"
+          <Card border="light">
+  <Card.Img
+    width={160}
+    height={110}
+    className="bottom-cards" variant ="top" src="https://s6.gifyu.com/images/towardTheLight.jpg"
     alt="Oil Painting by Lee Sampson"
   />
   <Card.Body>
